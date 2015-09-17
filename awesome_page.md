@@ -9,7 +9,7 @@
 
 [This_is_a_link](www.google.com)
 
-![Screenshot](/DBC_work/phase-0/phase-0-gps-1/screenshot/gps1.1.png)
+![Screenshot](screenshot/gps1.1.png)
 
 <p>text</p>
 <pre><code></code></pre>
