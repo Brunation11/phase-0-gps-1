@@ -17,13 +17,14 @@ list item 3
 ![Screenshot](screenshot/gps1.1.png)
 
 <p>this is a code block</p>
-<pre><code>puts "Hello World!"</code></pre>
+<pre><code>Hello World!</code></pre>
 
 ```
-this is a longcode block
-puts "Hello what's your name?"
-name = gets.chomp.capitalize!
-puts "Hello #{name}!"
+this is a long code block
+code block
+code block
+code block
+
 ```
 make some changes to it
 
